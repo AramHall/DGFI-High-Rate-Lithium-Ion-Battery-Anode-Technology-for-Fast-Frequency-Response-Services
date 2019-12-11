@@ -1,10 +1,10 @@
 % Creates an accelerated Power - Time profile
 
 % Power Data
-% input = HPR_2018.Output;
+ input = HPR_2018.Output;
 
 % To see an example of how this code work uncomment the below
- input = [0,5,5,7,10,12,14,10,7,2,1,10,1]';
+% input = [0,5,5,7,10,12,14,10,7,2,1,10,1]';
 
 % Time Step in sec
 timeStep = 4;
